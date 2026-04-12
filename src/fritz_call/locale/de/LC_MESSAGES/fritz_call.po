@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fritz_call 1.0.0\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Abgewiesen"
+msgstr "Abgewiesen"
+
+msgid "Ankommend"
+msgstr "Ankommend"
+
+msgid "Ausgehend"
+msgstr "Ausgehend"
+
+msgid "Blockiert"
+msgstr "Blockiert"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Connection test failed"
+msgstr "Verbindungstest fehlgeschlagen"
+
+msgid "Connection test successful"
+msgstr "Verbindungstest erfolgreich"
+
+msgid "Controls"
+msgstr "Bedienung"
+
+msgid "Datum"
+msgstr "Datum"
+
+msgid "Dauer"
+msgstr "Dauer"
+
+msgid "Eigene Rufnr."
+msgstr "Eigene Rufnr."
+
+msgid "Eigene Rufnummer"
+msgstr "Eigene Rufnummer"
+
+msgid "Fritz!Box Host/IP"
+msgstr "Fritz!Box Host/IP"
+
+msgid "Fritz!Box Settings"
+msgstr "Fritz!Box Einstellungen"
+
+msgid "FritzCall"
+msgstr "FritzCall"
+
+msgid "FritzCall – Anrufer-Benachrichtigung & Anrufliste"
+msgstr "FritzCall – Anrufer-Benachrichtigung & Anrufliste"
+
+msgid "Information"
+msgstr "Informationen"
+
+msgid "LCD only"
+msgstr "Nur LCD"
+
+msgid "Message timeout"
+msgstr "Anzeigedauer"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Name / Rufnummer"
+msgstr "Name / Rufnummer"
+
+msgid "No calls available"
+msgstr "Keine Anrufe vorhanden"
+
+msgid "Ortsnetz"
+msgstr "Ortsnetz"
+
+msgid "Output target"
+msgstr "Ausgabeziel"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Please configure the Fritz!Box connection first"
+msgstr "Bitte zuerst die Fritz!Box-Verbindung konfigurieren"
+
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+msgid "Rufnummer"
+msgstr "Rufnummer"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"
+
+msgid "Telefoniegerät"
+msgstr "Telefoniegerät"
+
+msgid "Test connection"
+msgstr "Verbindung testen"
+
+msgid "Typ"
+msgstr "Typ"
+
+msgid "UI + LCD"
+msgstr "UI + LCD"
+
+msgid "UI only"
+msgstr "Nur UI"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Verpasst"
+msgstr "Verpasst"

@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fritz_call 1.0.0\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Abgewiesen"
+msgstr "Rechazadas"
+
+msgid "Ankommend"
+msgstr "Entrante"
+
+msgid "Ausgehend"
+msgstr "Saliente"
+
+msgid "Blockiert"
+msgstr "Bloqueadas"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Connection test failed"
+msgstr "Prueba de conexión fallida"
+
+msgid "Connection test successful"
+msgstr "Prueba de conexión correcta"
+
+msgid "Controls"
+msgstr "Controles"
+
+msgid "Datum"
+msgstr "Fecha"
+
+msgid "Dauer"
+msgstr "Duración"
+
+msgid "Eigene Rufnr."
+msgstr "Número propio"
+
+msgid "Eigene Rufnummer"
+msgstr "Número propio"
+
+msgid "Fritz!Box Host/IP"
+msgstr "Host/IP Fritz!Box"
+
+msgid "Fritz!Box Settings"
+msgstr "Ajustes Fritz!Box"
+
+msgid "FritzCall"
+msgstr "FritzCall"
+
+msgid "FritzCall – Anrufer-Benachrichtigung & Anrufliste"
+msgstr "FritzCall - Notificación de llamadas y lista"
+
+msgid "Information"
+msgstr "Información"
+
+msgid "LCD only"
+msgstr "Solo LCD"
+
+msgid "Message timeout"
+msgstr "Tiempo de mensaje"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Name / Rufnummer"
+msgstr "Nombre / Número"
+
+msgid "No calls available"
+msgstr "No hay llamadas disponibles"
+
+msgid "Ortsnetz"
+msgstr "Área local"
+
+msgid "Output target"
+msgstr "Destino de salida"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Please configure the Fritz!Box connection first"
+msgstr "Configure primero la conexión Fritz!Box"
+
+msgid "Refresh"
+msgstr "Actualizar"
+
+msgid "Rufnummer"
+msgstr "Número"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Settings saved"
+msgstr "Ajustes guardados"
+
+msgid "Telefoniegerät"
+msgstr "Dispositivo telefónico"
+
+msgid "Test connection"
+msgstr "Probar conexión"
+
+msgid "Typ"
+msgstr "Tipo"
+
+msgid "UI + LCD"
+msgstr "UI + LCD"
+
+msgid "UI only"
+msgstr "Solo UI"
+
+msgid "Username"
+msgstr "Usuario"
+
+msgid "Verpasst"
+msgstr "Perdidas"

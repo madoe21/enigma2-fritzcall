@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+*.ipk
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Local deploy secrets
+.env
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,11 @@
+Package: enigma2-plugin-extensions-fritz-call
+Version: 1.0.0
+Section: extra
+Priority: optional
+Architecture: all
+Maintainer: madoe21 <https://github.com/madoe21>
+Depends: enigma2, ca-certificates
+Description: FritzCall – incoming call notifications and call history for Enigma2.
+ Displays caller name/number (resolved from FritzBox phonebook) on the TV
+ screen and/or LCD display.  Shows a filterable call history (All / Missed /
+ Answered / Outgoing).  Requires a Fritz!Box router.

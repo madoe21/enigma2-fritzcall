@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fritz_call 1.0.0\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Abgewiesen"
+msgstr "Rejected"
+
+msgid "Ankommend"
+msgstr "Incoming"
+
+msgid "Ausgehend"
+msgstr "Outgoing"
+
+msgid "Blockiert"
+msgstr "Blocked"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Connection test failed"
+msgstr "Connection test failed"
+
+msgid "Connection test successful"
+msgstr "Connection test successful"
+
+msgid "Controls"
+msgstr "Controls"
+
+msgid "Datum"
+msgstr "Date"
+
+msgid "Dauer"
+msgstr "Duration"
+
+msgid "Eigene Rufnr."
+msgstr "Own number"
+
+msgid "Eigene Rufnummer"
+msgstr "Own number"
+
+msgid "Fritz!Box Host/IP"
+msgstr "Fritz!Box Host/IP"
+
+msgid "Fritz!Box Settings"
+msgstr "Fritz!Box Settings"
+
+msgid "FritzCall"
+msgstr "FritzCall"
+
+msgid "FritzCall – Anrufer-Benachrichtigung & Anrufliste"
+msgstr "FritzCall - Caller notification & call list"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "LCD only"
+msgstr "LCD only"
+
+msgid "Message timeout"
+msgstr "Message timeout"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Name / Rufnummer"
+msgstr "Name / Number"
+
+msgid "No calls available"
+msgstr "No calls available"
+
+msgid "Ortsnetz"
+msgstr "Local area"
+
+msgid "Output target"
+msgstr "Output target"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Please configure the Fritz!Box connection first"
+msgstr "Please configure the Fritz!Box connection first"
+
+msgid "Refresh"
+msgstr "Refresh"
+
+msgid "Rufnummer"
+msgstr "Number"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Settings saved"
+msgstr "Settings saved"
+
+msgid "Telefoniegerät"
+msgstr "Phone device"
+
+msgid "Test connection"
+msgstr "Test connection"
+
+msgid "Typ"
+msgstr "Type"
+
+msgid "UI + LCD"
+msgstr "UI + LCD"
+
+msgid "UI only"
+msgstr "UI only"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Verpasst"
+msgstr "Missed"

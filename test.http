@@ -1,0 +1,44 @@
+@fritzHost = {{$dotenv FRITZ_HOST}}
+@fritzUser = {{$dotenv FRITZ_USER}}
+@fritzPassword = {{$dotenv FRITZ_PASSWORD}}
+
+### 1) Get SID challenge (first step of Fritz!Box challenge-response login)
+# @name getChallenge
+GET http://{{fritzHost}}/login_sid.lua
+Accept: application/xml
+
+### 2) Authenticate and obtain SID (send challenge-response – done in Python code)
+# The Fritz!Box uses MD5 challenge-response: SID = POST /login_sid.lua?username=&response=<challenge>-<md5>
+# Use the Python api.py FritzBoxClient.test_connection() to verify credentials programmatically.
+
+### 3) Get call list (CSV export) – requires valid SID in URL
+# Replace REPLACE_WITH_SID with an actual session ID obtained via Python login
+@sid = REPLACE_WITH_SID
+GET http://{{fritzHost}}/fon_num/foncalls.lua?csv=&sid={{sid}}&max=250
+Accept: text/plain
+
+### 4) Get phonebook list via TR-064 SOAP
+POST http://{{fritzHost}}:49000/upnp/control/x_contact
+Content-Type: text/xml; charset="utf-8"
+SOAPAction: "urn:dslforum-org:service:X_AVM-DE_OnTel:1#GetPhonebookList"
+
+<?xml version="1.0" encoding="utf-8"?>
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <s:Body>
+    <u:GetPhonebookList xmlns:u="urn:dslforum-org:service:X_AVM-DE_OnTel:1"/>
+  </s:Body>
+</s:Envelope>
+
+### 5) Get phonebook by index (returns URL to phonebook XML)
+POST http://{{fritzHost}}:49000/upnp/control/x_contact
+Content-Type: text/xml; charset="utf-8"
+SOAPAction: "urn:dslforum-org:service:X_AVM-DE_OnTel:1#GetPhonebook"
+
+<?xml version="1.0" encoding="utf-8"?>
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <s:Body>
+    <u:GetPhonebook xmlns:u="urn:dslforum-org:service:X_AVM-DE_OnTel:1">
+      <NewPhonebookID>0</NewPhonebookID>
+    </u:GetPhonebook>
+  </s:Body>
+</s:Envelope>

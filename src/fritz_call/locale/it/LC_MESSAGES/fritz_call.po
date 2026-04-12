@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fritz_call 1.0.0\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Abgewiesen"
+msgstr "Rifiutate"
+
+msgid "Ankommend"
+msgstr "In entrata"
+
+msgid "Ausgehend"
+msgstr "In uscita"
+
+msgid "Blockiert"
+msgstr "Bloccate"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Connection test failed"
+msgstr "Test di connessione fallito"
+
+msgid "Connection test successful"
+msgstr "Test di connessione riuscito"
+
+msgid "Controls"
+msgstr "Comandi"
+
+msgid "Datum"
+msgstr "Data"
+
+msgid "Dauer"
+msgstr "Durata"
+
+msgid "Eigene Rufnr."
+msgstr "Numero proprio"
+
+msgid "Eigene Rufnummer"
+msgstr "Numero proprio"
+
+msgid "Fritz!Box Host/IP"
+msgstr "Host/IP Fritz!Box"
+
+msgid "Fritz!Box Settings"
+msgstr "Impostazioni Fritz!Box"
+
+msgid "FritzCall"
+msgstr "FritzCall"
+
+msgid "FritzCall – Anrufer-Benachrichtigung & Anrufliste"
+msgstr "FritzCall - Notifica chiamante ed elenco chiamate"
+
+msgid "Information"
+msgstr "Informazioni"
+
+msgid "LCD only"
+msgstr "Solo LCD"
+
+msgid "Message timeout"
+msgstr "Timeout messaggio"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Name / Rufnummer"
+msgstr "Nome / Numero"
+
+msgid "No calls available"
+msgstr "Nessuna chiamata disponibile"
+
+msgid "Ortsnetz"
+msgstr "Area locale"
+
+msgid "Output target"
+msgstr "Destinazione uscita"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Please configure the Fritz!Box connection first"
+msgstr "Configura prima la connessione Fritz!Box"
+
+msgid "Refresh"
+msgstr "Aggiorna"
+
+msgid "Rufnummer"
+msgstr "Numero"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Settings saved"
+msgstr "Impostazioni salvate"
+
+msgid "Telefoniegerät"
+msgstr "Dispositivo telefono"
+
+msgid "Test connection"
+msgstr "Prova connessione"
+
+msgid "Typ"
+msgstr "Tipo"
+
+msgid "UI + LCD"
+msgstr "UI + LCD"
+
+msgid "UI only"
+msgstr "Solo UI"
+
+msgid "Username"
+msgstr "Nome utente"
+
+msgid "Verpasst"
+msgstr "Perse"
