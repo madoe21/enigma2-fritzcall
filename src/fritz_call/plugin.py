@@ -20,8 +20,8 @@ from Components.config import (
 from Plugins.Plugin import PluginDescriptor
 
 from . import _
-from .api import FritzBoxClient
-from .config_store import FritzCallStore
+from .core.api import FritzBoxClient
+from .core.config_store import FritzCallStore
 from .screens import CallHistoryScreen, SettingsScreen
 from .services import (
     CallMonitorService,

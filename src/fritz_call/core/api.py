@@ -24,7 +24,7 @@ except ImportError:
     from urllib.request import Request, urlopen
     _PY2 = False
 
-from .core import normalize_call, normalize_number, parse_call_list_csv
+from . import normalize_call, normalize_number, parse_call_list_csv
 
 _SOAP_TEMPLATE = (
     '<?xml version="1.0" encoding="utf-8"?>'
