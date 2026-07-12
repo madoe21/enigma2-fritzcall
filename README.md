@@ -1,5 +1,7 @@
 # FritzCall – Enigma2 Plugin
 
+[![Built with aiflow](https://img.shields.io/badge/built%20with-aiflow-6b46c1)](https://github.com/cyber93de/aiflow)
+
 Incoming call notification and call history plugin for Enigma2. Displays
 caller name/number (resolved from the Fritz!Box phonebook) on the TV screen
 and/or the receiver's LCD display. Requires an AVM Fritz!Box router.
