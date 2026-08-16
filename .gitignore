@@ -14,3 +14,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# aiflow project-update keeps your customised file as <file>.bak before replacing it
+*.bak
